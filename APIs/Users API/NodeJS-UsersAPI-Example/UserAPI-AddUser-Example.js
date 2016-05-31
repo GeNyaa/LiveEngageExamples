@@ -32,10 +32,10 @@ qs = {
   "isEnabled": true,
   "isActive": true,
   "permissionGroups": [
-    1
+    <permissiongroup id>
   ],
   "email": "user@email.com",
-  "maxChats": 0,
+  "maxChats": <max chats no>,
   "fullName": "Full Name User",
   "loginName": "user@email.com",
   "passwordSh": "Password01"
