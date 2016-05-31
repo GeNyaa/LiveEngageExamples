@@ -42,7 +42,7 @@ qs = {
 };
 
 // Example URL: https://va-a.acr.liveperson.net/api/account/56072331/configuration/le-users/users
-var url = 'https://{YOUR BASE URI}/api/account/{YOUR ACCOUNT NUMBER}/configuration/le-users/users?v=1';
+var url = 'https://{YOUR BASE URI}/api/account/{YOUR ACCOUNT NUMBER}/configuration/le-users/users';
 request.post({
     url: url,
     oauth: oauth,
